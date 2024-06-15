@@ -12,4 +12,4 @@ This repository contains a solution to the Stanford Algorithm problem using the 
 2. Run the script:
 
 ```bash
-python quicksort.py
+python main.py
